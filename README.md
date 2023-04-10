@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently working for the City of Copenhagen, Denmark 🇩🇰
+- 🌍 Geospatial Engineer and Analyst
 - 🌱 I’m currently learning more on math for machine learning
 - 📖 Currently getting through Aurélien Géron's "Hands on Machine Learning"
 - 💬 Ask me about **Python, Geospatial, Data Engineering**
