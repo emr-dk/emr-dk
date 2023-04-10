@@ -1,9 +1,11 @@
-- 👋 Jeg hedder Emil
-- 👀 Jeg er interesseret i at løse problemer :)
-- 🌱 Lige nu er jeg begyndt at sætte mig ind i maskinlæring og prøver at blive bedre til den anvendte matematik
-- 📫 Fang mig her
+<h2 align="center">👋 Hello! I'm Emil.</h2>
+<p align="center">
+</p>
 
-<!---
-emr-dk/emr-dk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working for the City of Copenhagen, Denmark 🇩🇰
+- 🌱 I’m currently learning more on math for machine learning
+- 📖 Currently getting through Aurélien Géron's "Hands on Machine Learning"
+- 💬 Ask me about **Python, Geospatial, Data Engineering**
+- 📫 How to reach me: [@emilmr](emilmr@pm.me)
+<!-- ⚡ Fun fact: -->
