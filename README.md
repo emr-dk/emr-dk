@@ -3,7 +3,7 @@
 </p>
 
 This is my Github profile and repository. This is where I keep all the random bits and bobs I am working on. 
-If you wanna see some of the larger applications and stuff I have built check out my other site at [hvor.io](http://www.hvor.io)
+If you wanna see some of the larger applications and stuff I have built check out my other site at [hvor.io](http://www.hvor.io) (which is currently under construction).
 
 - 🔭 I’m currently working for the City of Copenhagen, Denmark 🇩🇰
 - 🌍 Geospatial Engineer and Analyst
